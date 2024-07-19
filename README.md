@@ -1,1 +1,2 @@
 # JS-jQuery
+# javascript-jQuery
